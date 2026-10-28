@@ -194,3 +194,8 @@ curl -s https://komiku-rest-api.vercel.app/baca-chapter/reality-quest/220
 ## License
 
 This project is licensed under the [ISC License](LICENSE).
+
+## Shoutout
+
+
+Project asli bisa cek link [berikut](https://github.com/VernSG/Komiku-Rest-Api).
