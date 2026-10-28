@@ -17,7 +17,7 @@ process.on("unhandledRejection", (reason, promise) => {
 });
 
 const app = express();
-const port = process.env.PORT || 3001;
+const port = process.env.PORT || 3002;
 const rateLimiter = require("./middleware/rateLimiter");
 
 app.use(rateLimiter);
